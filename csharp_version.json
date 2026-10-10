@@ -1,15 +1,15 @@
 {
-    "version": "3.37.78",
-    "zip_version": "3.37.78",
-    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.78/MEC_POS_Update.zip",
-    "zip_size": 1745795,
-    "setup_version": "3.37.78",
+    "version": "3.37.79",
+    "zip_version": "3.37.79",
+    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.79/MEC_POS_Update.zip",
+    "zip_size": 1282553,
+    "setup_version": "3.37.79",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/MEC_POS_Setup.exe",
     "setup_size": 147405316,
     "admin_version": "3.37.42",
     "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.42/MEC_Super_Admin_Setup.exe",
     "admin_size": 0,
-    "portable_version": "3.37.78",
+    "portable_version": "3.37.79",
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/MEC_POS_Setup.exe",
     "portable_size": 147405316
 }
