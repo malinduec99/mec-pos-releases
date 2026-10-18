@@ -1,15 +1,6 @@
 {
-    "version": "3.38.22",
-    "zip_version": "3.38.22",
-    "zip_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
-    "zip_size": 85027889,
-    "setup_version": "3.38.22",
-    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/MEC_POS_Setup.exe",
-    "setup_size": 147405316,
-    "admin_version": "3.37.42",
-    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.42/MEC_Super_Admin_Setup.exe",
-    "admin_size": 0,
-    "portable_version": "3.38.22",
-    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/MEC_POS_Setup.exe",
-    "portable_size": 147405316
+    "version": "3.38.23",
+    "url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.80/MEC_POS_Update.zip",
+    "releaseNotes": "Updated LOGIN_REMOTE_URL to live fallback domain https://mec-book-shop.web.app/merchant-login.html and self-contained runtime update.",
+    "zip_size": 85028750
 }
