@@ -1,6 +1,6 @@
 {
-    "version": "3.38.24",
+    "version": "3.38.25",
     "url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.37.80/MEC_POS_Update.zip",
     "releaseNotes": "Updated LOGIN_REMOTE_URL to live fallback domain https://mec-book-shop.web.app/merchant-login.html and self-contained runtime update.",
-    "zip_size": 85028549
+    "zip_size": 85028606
 }
