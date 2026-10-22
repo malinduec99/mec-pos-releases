@@ -1,16 +1,16 @@
 {
-    "version": "3.38.49",
-    "zip_version": "3.38.49",
+    "version": "3.38.50",
+    "zip_version": "3.38.50",
     "zip_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
-    "zip_size": 2004163,
-    "setup_version": "3.38.49",
-    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.49/MEC_POS_Setup.exe",
+    "zip_size": 2003906,
+    "setup_version": "3.38.50",
+    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.50/MEC_POS_Setup.exe",
     "setup_size": 78421726,
-    "admin_version": "3.38.49",
-    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.49/MEC_Super_Admin_Setup.exe",
+    "admin_version": "3.38.50",
+    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.50/MEC_Super_Admin_Setup.exe",
     "admin_size": 0,
-    "portable_version": "3.38.49",
-    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.49/MEC_POS_Portable.exe",
+    "portable_version": "3.38.50",
+    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.50/MEC_POS_Portable.exe",
     "portable_size": 154904725,
-    "releaseNotes": "MEC POS v3.38.49: Enhanced HRM Leave Requests with Dedicated Medical Document column, Direct File Upload Dropzone with Image Optimization, and High-Visibility Action Buttons."
+    "releaseNotes": "MEC POS v3.38.50: Compiled Production Assets, Full HRM Leave Requests & Medical Document Upload System, High-Visibility Actions."
 }
