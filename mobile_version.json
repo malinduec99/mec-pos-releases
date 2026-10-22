@@ -1,7 +1,7 @@
 {
   "version_name": "1.0.12",
   "version_code": 14,
-  "apk_url": "https://mecpos.web.lk/updates/mecpos_zenith_merchant.apk",
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.47/mecpos-mobile.apk",
   "apk_size_mb": "83.2 MB",
   "release_notes": "Added Sri Lanka Statutory Payroll Compliance (EPF 8%/12%, ETF 3%), Leave Approvals with Medical Bill Inspection & Attendance Allowance Protection.",
   "is_critical": true,
