@@ -1,8 +1,8 @@
 {
-    "version": "3.38.60",
-    "zip_version": "3.38.60",
+    "version": "3.38.62",
+    "zip_version": "3.38.62",
     "zip_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
-    "zip_size": 2023496,
+    "zip_size": 2026517,
     "setup_version": "3.38.50",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.50/MEC_POS_Setup.exe",
     "setup_size": 78421726,
@@ -12,5 +12,5 @@
     "portable_version": "3.38.50",
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.38.50/MEC_POS_Portable.exe",
     "portable_size": 154904725,
-    "releaseNotes": "MEC POS v3.38.60: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync."
+    "releaseNotes": "MEC POS v3.38.62: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync."
 }
