@@ -1,9 +1,10 @@
 {
-  "version_name": "1.0.16",
-  "version_code": 17,
+  "version_name": "1.0.17",
+  "version_code": 18,
   "apk_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/mec-employee-attendance.apk",
-  "apk_size_mb": "85.0 MB",
-  "release_notes": "MEC POS Employee Experience v1.0.16: Multi-tenant isolated store architecture, real-time sync & biometric attendance improvements.",
+  "apk_size_mb": "83.4 MB",
+  "release_notes": "MEC POS Employee Experience v1.0.17: Completed migration to stores subcollection architecture (attendance, payroll, leaves, advances, notices). Zero root dependencies.",
   "is_critical": true,
-  "min_supported_version_code": 1
+  "min_supported_version_code": 1,
+  "updated_at": "2026-10-27T13:17:03.570Z"
 }
