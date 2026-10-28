@@ -1,9 +1,9 @@
 {
-  "version_name": "1.0.24",
-  "version_code": 5022,
+  "version_name": "1.0.25",
+  "version_code": 5023,
   "apk_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/mec-book-shop.apk",
   "apk_size_mb": "31.9 MB",
-  "release_notes": "v1.0.24: Fixed real-time stock deduction on mobile checkout, synchronized inventory levels with POS terminal & web store.",
+  "release_notes": "v1.0.25: Real-time inventory synchronization, instant stock deduction, responsive layout enhancements.",
   "is_critical": false,
   "min_supported_version_code": 5000
 }
