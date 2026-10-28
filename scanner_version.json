@@ -1,8 +1,8 @@
 {
-    "version_name": "1.0.2",
-    "version_code": 3,
+    "version_name": "1.0.3",
+    "version_code": 4,
     "apk_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/mec_zenith_scanner.apk",
     "apk_size_mb": "68.0 MB",
-    "release_notes": "• Clean streamlined bottom panel\n• Expanded unobstructed camera viewfinder\n• High-speed keep-alive barcode sync\n• Auto battery saver standby mode",
+    "release_notes": "• Blank credentials on fresh install (no pre-filled password)\n• Clean streamlined bottom panel\n• Expanded unobstructed camera viewfinder\n• High-speed keep-alive barcode sync",
     "is_critical": false
 }
