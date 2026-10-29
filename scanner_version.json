@@ -1,8 +1,8 @@
 {
-    "version_name": "1.0.3",
-    "version_code": 4,
-    "apk_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/mec_zenith_scanner.apk",
+    "version_name": "1.0.7",
+    "version_code": 8,
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.19/mec_zenith_scanner.apk",
     "apk_size_mb": "68.0 MB",
-    "release_notes": "• Blank credentials on fresh install (no pre-filled password)\n• Clean streamlined bottom panel\n• Expanded unobstructed camera viewfinder\n• High-speed keep-alive barcode sync",
+    "release_notes": "• Dedicated 1-to-1 PC connection: scans send strictly to the selected PC (no cross-PC leakage)\n• Single-scan guarantee: eliminated duplicate quantities (QTY 1 on single scan)\n• Live online PC detection from active terminals",
     "is_critical": false
 }
