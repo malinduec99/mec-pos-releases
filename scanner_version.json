@@ -1,8 +1,8 @@
 {
-    "version_name": "1.0.7",
-    "version_code": 8,
-    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.19/mec_zenith_scanner.apk",
-    "apk_size_mb": "68.0 MB",
-    "release_notes": "• Dedicated 1-to-1 PC connection: scans send strictly to the selected PC (no cross-PC leakage)\n• Single-scan guarantee: eliminated duplicate quantities (QTY 1 on single scan)\n• Live online PC detection from active terminals",
-    "is_critical": false
+    "version_name": "1.0.10",
+    "version_code": 11,
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/mec_zenith_scanner.apk",
+    "apk_size_mb": "68.3 MB",
+    "release_notes": "• Direct Tab & PC Switching: Added dedicated quick-connect buttons for MEC Tab (MEC-TAB) and Desktop POS (mec_pc_01)\n• Always-Accessible Terminal Selection: Easily switch between Tab and PC even offline or when auto-discovery is delayed\n• Relaxed Geofence & Extended Timeout: Indoor scans never drop terminals",
+    "is_critical": true
 }
