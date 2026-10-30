@@ -1,16 +1,16 @@
 {
-    "version": "3.39.15",
-    "zip_version": "3.39.15",
-    "zip_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
-    "zip_size": 3856234,
-    "setup_version": "3.39.12",
-    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.12/MEC_POS_Setup.exe",
-    "setup_size": 79853916,
+    "version": "3.39.21",
+    "zip_version": "3.39.21",
+    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/MEC_POS_Update.zip",
+    "zip_size": 4811018,
+    "setup_version": "3.39.20",
+    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/MEC_POS_Setup.exe",
+    "setup_size": 22785886,
     "admin_version": "3.39.12",
-    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.12/MEC_Super_Admin_Setup.exe",
+    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.19/MEC_Super_Admin_Setup.exe",
     "admin_size": 0,
-    "portable_version": "3.39.12",
+    "portable_version": "3.39.20",
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.12/MEC_POS_Portable.exe",
     "portable_size": 154904725,
-    "releaseNotes": "MEC POS v3.39.15: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync."
+    "releaseNotes": "MEC POS v3.39.21: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync."
 }
