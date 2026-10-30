@@ -1,8 +1,10 @@
 {
-    "version_name": "1.0.10",
-    "version_code": 11,
+    "version_name": "1.0.11",
+    "version_code": 12,
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/mec_zenith_scanner.apk",
     "apk_size_mb": "68.3 MB",
-    "release_notes": "• Direct Tab & PC Switching: Added dedicated quick-connect buttons for MEC Tab (MEC-TAB) and Desktop POS (mec_pc_01)\n• Always-Accessible Terminal Selection: Easily switch between Tab and PC even offline or when auto-discovery is delayed\n• Relaxed Geofence & Extended Timeout: Indoor scans never drop terminals",
-    "is_critical": true
+    "release_notes": "MEC Zenith Scanner v1.0.11: Multi-tenant employee authentication (bm@123, abc@123) and direct connection to PC & Tab terminals.",
+    "is_critical": false,
+    "min_supported_version_code": 1,
+    "updated_at": "2026-10-30T10:05:00.000Z"
 }
