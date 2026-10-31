@@ -1,10 +1,8 @@
 {
-    "version_name": "1.0.28",
-    "version_code": 30,
-    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/mecpos_zenith_merchant.apk",
-    "apk_size_mb": "84.5 MB",
-    "release_notes": "MEC POS Zenith Merchant v1.0.28: Multi-Token Fuzzy Search (beginning, middle, end), exact barcode auto-add & multi-tenant employee login with offline resilience.",
-    "is_critical": false,
-    "min_supported_version_code": 1,
-    "updated_at": "2026-10-30T09:55:00.000Z"
+  "version": "1.0.29",
+  "version_name": "1.0.29",
+  "version_code": 31,
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.31/mecpos_zenith_merchant.apk",
+  "release_notes": "MEC POS Mobile v1.0.29 (Universal Multi-Tenant Enterprise Client). 100% de-hardcoded universal tenant support for all registered merchants, custom branches, and dynamic SMS configurations.",
+  "mandatory": false
 }
