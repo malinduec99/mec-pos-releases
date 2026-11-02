@@ -1,5 +1,5 @@
 {
-  "version": "3.39.42",
+  "version": "3.39.44",
   "releaseDate": "2026-11-02",
-  "releaseNotes": "Compact HRM UI layout with maximized card display area; staff registration & deleted blacklist fix"
+  "releaseNotes": "Ascending numerical EMP number sorting & real-time search by Name or EMP No in cards and table"
 }
