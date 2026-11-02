@@ -1,5 +1,5 @@
 {
-  "version": "3.39.47",
+  "version": "3.39.48",
   "releaseDate": "2026-11-02",
-  "releaseNotes": "MEC POS v3.39.47: Package-Driven Module Architecture \u2014 Operational modules (Web Orders, Repairs, Reload Terminal, POS, Inventory, Reports) are now strictly governed by the merchant's subscription package and accessible to all store staff members. Cleaned Order Volume KPI number formatting."
+  "releaseNotes": "MEC POS v3.39.48: Universal Multi-Merchant SMS API Cloud Synchronization & Digital Invoice URL Link Generator for All Merchants."
 }
