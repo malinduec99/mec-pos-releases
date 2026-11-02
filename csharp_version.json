@@ -1,16 +1,19 @@
 {
-    "version": "3.39.31",
-    "zip_version": "3.39.31",
-    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.31/MEC_POS_Update.zip",
-    "zip_size": 5187582,
-    "setup_version": "3.39.31",
-    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.31/MEC_POS_Setup.exe",
+    "version": "3.39.41",
+    "zip_version": "3.39.41",
+    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.41/MEC_POS_Update.zip",
+    "zip_size": 4722824,
+    "setup_version": "3.39.41",
+    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.41/MEC_POS_Setup.exe",
     "setup_size": 70252252,
     "admin_version": "3.39.12",
     "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.19/MEC_Super_Admin_Setup.exe",
     "admin_size": 0,
-    "portable_version": "3.39.31",
-    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.20/MEC_POS_Portable.exe",
+    "portable_version": "3.39.41",
+    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.41/MEC_POS_Portable.exe",
     "portable_size": 154904725,
-    "releaseNotes": "MEC POS v3.39.31: Pure SaaS multi-tenant engine, dynamic website launcher, zero-merchant hardcoding, branch isolation."
+    "download_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.41/MEC_POS_Update.zip",
+    "releaseNotes": "MEC POS v3.39.41: Auto-locked system access permissions & job levels to designation; HRM role automation release.",
+    "release_notes": "Auto-locked system access permissions & job levels to designation; HRM role automation release",
+    "mandatory": false
 }
