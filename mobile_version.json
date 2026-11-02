@@ -1,10 +1,10 @@
 {
-    "version_name": "1.0.30",
-    "version_code": 32,
-    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.44/mecpos_zenith_merchant.apk",
-    "apk_size_mb": "88.6 MB",
-    "release_notes": "MEC POS Zenith Merchant v1.0.30: Multi-tenant Case-insensitive password authentication, direct root employees & store subcollection instant sync.",
-    "is_critical": false,
-    "min_supported_version_code": 1,
-    "updated_at": "2026-11-02T17:15:00.000Z"
+  "version_name": "1.0.31",
+  "version_code": 33,
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.45/mecpos_zenith_merchant.apk",
+  "apk_size_mb": "88.6 MB",
+  "release_notes": "MEC POS Zenith Merchant v1.0.31: Role & Managerial Permissions Update \u2014 Branch Managers, Sales Managers, and Supervisors can now view daily/monthly sales reports, revenue metrics, and employee directories across Mobile and Desktop POS.",
+  "is_critical": false,
+  "min_supported_version_code": 1,
+  "updated_at": "2026-11-02T18:00:00.000Z"
 }

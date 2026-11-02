@@ -1,5 +1,5 @@
 {
-  "version": "3.39.44",
+  "version": "3.39.45",
   "releaseDate": "2026-11-02",
-  "releaseNotes": "Ascending numerical EMP number sorting & real-time search by Name or EMP No in cards and table"
+  "releaseNotes": "MEC POS v3.39.45: Enhanced Management Access & Daily Cash Balancing \u2014 Branch Managers, Sales Managers, and Supervisors can now view daily/monthly sales figures, Executive Dashboard, revenue charts, and staff directory. Daily Cash Balancing defaults to All Cashiers (Total Branch Sales)."
 }
