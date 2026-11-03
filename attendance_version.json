@@ -2,7 +2,7 @@
   "version": "1.0.20",
   "version_name": "1.0.20",
   "version_code": 21,
-  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.48/mec-employee-attendance.apk",
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.50/mec-employee-attendance.apk",
   "apk_size_mb": "84.2 MB",
   "release_notes": "MEC POS Employee Experience v1.0.20 (Universal Multi-Tenant): Global employee identity lookup via collectionGroup, dynamic merchant store isolation, universal branding and isolated attendance tracking across all merchants.",
   "is_critical": true,

@@ -1,0 +1,8 @@
+{
+  "version_name": "1.0.1",
+  "version_code": 1,
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/mecpos_salesrep.apk",
+  "apk_size_mb": "54.2 MB",
+  "release_notes": "Initial Release: Sales Representative App with wholesale shop registration, GPS tagging, Van Sales & Booking Orders with Digital Invoice SMS.",
+  "is_critical": false
+}

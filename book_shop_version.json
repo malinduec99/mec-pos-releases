@@ -1,9 +1,10 @@
 {
-  "version_name": "1.0.25",
-  "version_code": 5023,
+  "version_name": "1.0.26",
+  "version_code": 5024,
   "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.48/mec-book-shop.apk",
   "apk_size_mb": "31.9 MB",
-  "release_notes": "v1.0.25: Real-time inventory synchronization, instant stock deduction, responsive layout enhancements.",
+  "release_notes": "v1.0.26: Multi-tenant store catalog sync, robust cart checkout & instant stock updates.",
   "is_critical": false,
-  "min_supported_version_code": 5000
+  "min_supported_version_code": 5000,
+  "updated_at": "2026-10-29T07:29:55.247Z"
 }

@@ -1,0 +1,8 @@
+{
+  "version_name": "1.0.1",
+  "version_code": 1,
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/mecpos_delivery_collector.apk",
+  "apk_size_mb": "53.5 MB",
+  "release_notes": "Initial Release: Delivery Cash Collector App for van dispatches, route cash collection, Cheque & Bank records, live status sync and SMS receipts.",
+  "is_critical": false
+}
