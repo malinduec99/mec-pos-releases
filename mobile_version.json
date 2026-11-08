@@ -1,10 +1,20 @@
 {
-  "version_name": "1.0.33",
-  "version_code": 35,
-  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.50/mecpos_zenith_merchant.apk",
-  "apk_size_mb": "88.6 MB",
-  "release_notes": "MEC POS Zenith Merchant v1.0.33: Multi-Merchant SMS API Cloud Synchronization & Universal Digital Invoice Links.",
-  "is_critical": false,
-  "min_supported_version_code": 1,
-  "updated_at": "2026-11-02T18:25:00.000Z"
+    "version": "1.0.36",
+    "versionCode": 38,
+    "version_name": "1.0.36",
+    "version_code": 38,
+    "minVersion": "1.0.0",
+    "minVersionCode": 1,
+    "min_supported_version_code": 1,
+    "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.74/mecpos_zenith_merchant.apk",
+    "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.74/mecpos_zenith_merchant.apk",
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.74/mecpos_zenith_merchant.apk",
+    "apk_size": 88935328,
+    "apk_size_mb": "84.8 MB",
+    "releaseNotes": "MEC POS Zenith Merchant v1.0.36: Zero-lag caching startup, quantity selector popup in Quick POS, and post-sale print/SMS/WhatsApp dialog.",
+    "release_notes": "MEC POS Zenith Merchant v1.0.36: Zero-lag caching startup, quantity selector popup in Quick POS, and post-sale print/SMS/WhatsApp dialog.",
+    "releaseDate": "2026-11-08",
+    "updated_at": "2026-11-08T19:25:00.000Z",
+    "forceUpdate": false,
+    "is_critical": false
 }
