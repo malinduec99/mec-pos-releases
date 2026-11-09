@@ -1,9 +1,19 @@
 {
-  "version_name": "1.0.3",
-  "version_code": 3,
-  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.50/mecpos_salesrep.apk",
-  "apk_size_mb": "54.4 MB",
-  "release_notes": "MEC POS SalesRep v1.0.3: Crash-Proof Wholesale Customer Sync & Instant Offline Local Cache for Products and Shops.",
+  "version": "1.0.5",
+  "version_name": "1.0.5",
+  "versionCode": 5,
+  "version_code": 5,
+  "minVersion": "1.0.0",
+  "minVersionCode": 1,
+  "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.76/mecpos_salesrep.apk",
+  "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.76/mecpos_salesrep.apk",
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.76/mecpos_salesrep.apk",
+  "apk_size_mb": "55.4 MB",
+  "apk_size": 58083446,
+  "releaseNotes": "MEC POS Sales Rep v1.0.5: Product photos display, wholesale & retail pricing, and interactive POS quantity popup modal with quick increment chips.",
+  "release_notes": "MEC POS Sales Rep v1.0.5: Product photos display, wholesale & retail pricing, and interactive POS quantity popup modal with quick increment chips.",
   "is_critical": false,
-  "updated_at": "2026-11-03T16:45:00.000Z"
+  "forceUpdate": false,
+  "releaseDate": "2026-11-09",
+  "updated_at": "2026-11-09T08:00:00.000Z"
 }
