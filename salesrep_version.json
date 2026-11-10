@@ -1,8 +1,8 @@
 {
-    "version": "1.0.7",
-    "versionCode": 7,
-    "version_name": "1.0.7",
-    "version_code": 7,
+    "version": "1.0.8",
+    "versionCode": 8,
+    "version_name": "1.0.8",
+    "version_code": 8,
     "minVersion": "1.0.0",
     "minVersionCode": 1,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_salesrep.apk",
@@ -10,9 +10,9 @@
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_salesrep.apk",
     "apk_size": 58083746,
     "apk_size_mb": "55.4 MB",
-    "releaseNotes": "MEC POS Sales Rep v1.0.7: Large product image grid view like MEC Book Shop with clear MRP, Wholesale price, and Stock quantity display.",
-    "release_notes": "MEC POS Sales Rep v1.0.7: Large product image grid view like MEC Book Shop with clear MRP, Wholesale price, and Stock quantity display.",
+    "releaseNotes": "MEC POS Sales Rep v1.0.8: Fixed cart addition issue, enhanced POS quantity selection.",
+    "release_notes": "MEC POS Sales Rep v1.0.8: Fixed cart addition issue, enhanced POS quantity selection.",
     "releaseDate": "2026-11-10",
-    "forceUpdate": false,
-    "updated_at": "2026-11-10T06:52:06.309Z"
+    "forceUpdate": true,
+    "updated_at": "2026-11-10T09:10:00.000Z"
 }
