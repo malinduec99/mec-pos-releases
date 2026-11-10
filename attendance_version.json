@@ -1,8 +1,8 @@
 {
-    "version": "1.0.22",
-    "version_name": "1.0.22",
-    "versionCode": 23,
-    "version_code": 23,
+    "version": "1.0.23",
+    "version_name": "1.0.23",
+    "versionCode": 24,
+    "version_code": 24,
     "minVersion": "1.0.0",
     "minVersionCode": 1,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mec-employee-attendance.apk",
@@ -10,10 +10,10 @@
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mec-employee-attendance.apk",
     "apk_size_mb": "83.3 MB",
     "apk_size": 87328355,
-    "releaseNotes": "MEC POS Employee Attendance v1.0.22: Banked Salary Card moved to Official Pay Slips screen; 25th auto-run & HR approval validation; dynamic payslip archive dropdown with Sinhala & English labels.",
-    "release_notes": "MEC POS Employee Attendance v1.0.22: Banked Salary Card moved to Official Pay Slips screen; 25th auto-run & HR approval validation; dynamic payslip archive dropdown with Sinhala & English labels.",
+    "releaseNotes": "MEC POS Employee Experience v1.0.23: Universal SaaS Dynamic Merchant Store Logo rendering with Base64 & Network URL support; strict tenant branding isolation.",
+    "release_notes": "MEC POS Employee Experience v1.0.23: Universal SaaS Dynamic Merchant Store Logo rendering with Base64 & Network URL support; strict tenant branding isolation.",
     "is_critical": false,
     "forceUpdate": false,
     "min_supported_version_code": 1,
-    "updated_at": "2026-11-10T03:29:21.341Z"
+    "updated_at": "2026-11-10T05:07:50.021Z"
 }
