@@ -1,11 +1,19 @@
 {
-    "version": "1.0.20",
-    "version_name": "1.0.20",
-    "version_code": 21,
-    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.60/mec-employee-attendance.apk",
-    "apk_size_mb": "84.2 MB",
-    "release_notes": "MEC POS Employee Experience v1.0.20 (Universal Multi-Tenant): Global employee identity lookup via collectionGroup, dynamic merchant store isolation, universal branding and isolated attendance tracking across all merchants.",
-    "is_critical": true,
+    "version": "1.0.22",
+    "version_name": "1.0.22",
+    "versionCode": 23,
+    "version_code": 23,
+    "minVersion": "1.0.0",
+    "minVersionCode": 1,
+    "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mec-employee-attendance.apk",
+    "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mec-employee-attendance.apk",
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mec-employee-attendance.apk",
+    "apk_size_mb": "83.3 MB",
+    "apk_size": 87328355,
+    "releaseNotes": "MEC POS Employee Attendance v1.0.22: Banked Salary Card moved to Official Pay Slips screen; 25th auto-run & HR approval validation; dynamic payslip archive dropdown with Sinhala & English labels.",
+    "release_notes": "MEC POS Employee Attendance v1.0.22: Banked Salary Card moved to Official Pay Slips screen; 25th auto-run & HR approval validation; dynamic payslip archive dropdown with Sinhala & English labels.",
+    "is_critical": false,
+    "forceUpdate": false,
     "min_supported_version_code": 1,
-    "updated_at": "2026-10-31T06:09:07.937085+00:00"
+    "updated_at": "2026-11-10T03:29:21.341Z"
 }
