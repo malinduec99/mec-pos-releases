@@ -1,17 +1,18 @@
 {
-    "version": "1.0.6",
-    "versionCode": 6,
-    "version_name": "1.0.6",
-    "version_code": 6,
+    "version": "1.0.7",
+    "versionCode": 7,
+    "version_name": "1.0.7",
+    "version_code": 7,
     "minVersion": "1.0.0",
     "minVersionCode": 1,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_salesrep.apk",
     "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_salesrep.apk",
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_salesrep.apk",
-    "apk_size": 58083446,
+    "apk_size": 58083746,
     "apk_size_mb": "55.4 MB",
-    "releaseNotes": "MEC POS Sales Rep v1.0.6: Universal SaaS Multi-Tenant update with strict data isolation, dynamic store order routing, and real-time offline sync.",
-    "release_notes": "MEC POS Sales Rep v1.0.6: Universal SaaS Multi-Tenant update with strict data isolation, dynamic store order routing, and real-time offline sync.",
+    "releaseNotes": "MEC POS Sales Rep v1.0.7: Large product image grid view like MEC Book Shop with clear MRP, Wholesale price, and Stock quantity display.",
+    "release_notes": "MEC POS Sales Rep v1.0.7: Large product image grid view like MEC Book Shop with clear MRP, Wholesale price, and Stock quantity display.",
     "releaseDate": "2026-11-10",
-    "forceUpdate": false
+    "forceUpdate": false,
+    "updated_at": "2026-11-10T06:52:06.309Z"
 }
