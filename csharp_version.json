@@ -1,8 +1,8 @@
 {
-    "version": "3.39.95",
-    "zip_version": "3.39.95",
+    "version": "3.39.96",
+    "zip_version": "3.39.96",
     "zip_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "zip_size": 4356122,
+    "zip_size": 4350168,
     "setup_version": "3.39.83",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/MEC_POS_Setup.exe",
     "setup_size": 71862527,
@@ -13,7 +13,7 @@
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.50/MEC_POS_Setup.exe",
     "portable_size": 70937332,
     "download_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "releaseNotes": "MEC POS v3.39.95: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync.",
+    "releaseNotes": "MEC POS v3.39.96: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync.",
     "release_notes": "MEC POS Zenith v3.39.71: True Fullscreen Kiosk Mode (covers Windows taskbar), Pure C# Native Self-Contained build (no .NET runtime prompts), and official 3D glowing prism logo.",
     "mandatory": false
 }
