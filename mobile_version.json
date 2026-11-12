@@ -1,0 +1,20 @@
+{
+    "version": "1.0.44",
+    "versionCode": 46,
+    "version_name": "1.0.44",
+    "version_code": 46,
+    "minVersion": "1.0.0",
+    "minVersionCode": 1,
+    "min_supported_version_code": 1,
+    "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_zenith_merchant.apk",
+    "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_zenith_merchant.apk",
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_zenith_merchant.apk",
+    "apk_size": 90430004,
+    "apk_size_mb": "86 MB",
+    "releaseNotes": "MEC POS Zenith Merchant v1.0.44: Zero-lag atomic local caching, eliminated ANR freeze crashes, instant Chrome browser 1-tap download fallback.",
+    "release_notes": "MEC POS Zenith Merchant v1.0.44: Zero-lag atomic local caching, eliminated ANR freeze crashes, instant Chrome browser 1-tap download fallback.",
+    "releaseDate": "2026-11-12",
+    "updated_at": "2026-11-12T16:00:00.000Z",
+    "forceUpdate": false,
+    "is_critical": false
+}
