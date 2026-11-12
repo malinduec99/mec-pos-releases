@@ -8,7 +8,7 @@
     "min_supported_version_code": 1,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_zenith_merchant.apk",
     "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_zenith_merchant.apk",
-    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.79/mecpos_zenith_merchant.apk",
+    "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.39.98/mecpos_zenith_merchant.apk",
     "apk_size": 89033856,
     "apk_size_mb": "84.9 MB",
     "releaseNotes": "MEC POS Zenith Merchant v1.0.38: Fixed reload, repair, and expense date range calculation for Today and custom periods; eliminated stale timestamp inclusion.",
