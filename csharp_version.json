@@ -1,8 +1,8 @@
 {
-    "version": "3.40.06",
-    "zip_version": "3.40.06",
+    "version": "3.40.08",
+    "zip_version": "3.40.08",
     "zip_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "zip_size": 4366635,
+    "zip_size": 4366850,
     "setup_version": "3.40.08",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "setup_size": 122703872,
@@ -13,7 +13,7 @@
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "portable_size": 122703872,
     "download_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "releaseNotes": "MEC POS v3.40.06: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync.",
+    "releaseNotes": "MEC POS v3.40.08: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync.",
     "release_notes": "MEC POS Zenith v3.40.08: Self-contained .NET 8 Runtime bundled, Inno Setup elevation Code 740 fixed, and full multi-tenant WhatsApp background service.",
     "mandatory": true
 }
