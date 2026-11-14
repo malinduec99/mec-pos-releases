@@ -1,8 +1,16 @@
 {
-  "version_name": "1.0.3",
-  "version_code": 3,
-  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/latest/download/mecpos_delivery_collector.apk",
-  "apk_size_mb": "53.5 MB",
-  "release_notes": "Fixed old bills showing in Today Cash Collected and Delivered metrics. Now only shows today deliveries.",
-  "is_critical": false
+  "version": "1.0.4",
+  "versionCode": 4,
+  "version_name": "1.0.4",
+  "version_code": 4,
+  "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_delivery_collector.apk",
+  "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_delivery_collector.apk",
+  "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_delivery_collector.apk",
+  "apk_size": 62551749,
+  "apk_size_mb": "59.7 MB",
+  "releaseNotes": "MEC POS Delivery Collector v1.0.4: Enterprise modular architecture refactor (auth, dashboard, deliveries, finance) with real-time multi-tenant cash handover sync.",
+  "release_notes": "MEC POS Delivery Collector v1.0.4: Enterprise modular architecture refactor (auth, dashboard, deliveries, finance) with real-time multi-tenant cash handover sync.",
+  "is_critical": false,
+  "releaseDate": "2026-11-14",
+  "updated_at": "2026-11-14T08:58:00.000Z"
 }
