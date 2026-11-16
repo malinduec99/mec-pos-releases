@@ -1,18 +1,18 @@
-{
-    "version": "1.0.11",
-    "versionCode": 11,
-    "version_name": "1.0.11",
-    "version_code": 11,
+﻿{
+    "version": "1.0.12",
+    "versionCode": 12,
+    "version_name": "1.0.12",
+    "version_code": 12,
     "minVersion": "1.0.0",
     "minVersionCode": 1,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_salesrep.apk",
     "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_salesrep.apk",
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/mecpos_salesrep.apk",
-    "apk_size": 64626340,
+    "apk_size": 64626408,
     "apk_size_mb": "61.6 MB",
-    "releaseNotes": "MEC POS Sales Rep v1.0.11: Modular enterprise architecture refactor (auth, dashboard, orders, shops, payments) with multi-tenant subcollection synchronization.",
-    "release_notes": "MEC POS Sales Rep v1.0.11: Modular enterprise architecture refactor (auth, dashboard, orders, shops, payments) with multi-tenant subcollection synchronization.",
-    "releaseDate": "2026-11-14",
+    "releaseNotes": "MEC POS Sales Rep v1.0.12: Booking vs Direct Van Sale payment workflow - Booking orders default to On Delivery (0.00 advance) so cash is not recorded until delivery, while Van Sale collects on the spot.",
+    "release_notes": "MEC POS Sales Rep v1.0.12: Booking vs Direct Van Sale payment workflow - Booking orders default to On Delivery (0.00 advance) so cash is not recorded until delivery, while Van Sale collects on the spot.",
+    "releaseDate": "2026-11-16",
     "forceUpdate": true,
-    "updated_at": "2026-11-14T08:45:00.000Z"
+    "updated_at": "2026-11-16T13:05:00.000Z"
 }
