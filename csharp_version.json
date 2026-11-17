@@ -1,8 +1,8 @@
 {
-    "version": "3.40.08",
-    "zip_version": "3.40.08",
-    "zip_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "zip_size": 4372009,
+    "version": "3.40.20",
+    "zip_version": "3.40.20",
+    "zip_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
+    "zip_size": 4392786,
     "setup_version": "3.40.09",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "setup_size": 122703872,
@@ -12,8 +12,8 @@
     "portable_version": "3.40.09",
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "portable_size": 122703872,
-    "download_url": "https://raw.githubusercontent.com/malinduec99/mec-pos-releases/main/MEC_POS_Update.zip",
-    "releaseNotes": "MEC POS v3.40.08: Fix Firestore storeId listeners, multi-tenant queries, repair order filters, and live data sync.",
+    "download_url": "https://mecpos.web.lk/MEC_POS_Update.zip",
+    "releaseNotes": "MEC POS v3.40.20: Aesthetic White Theme Dashboard, Mobile Attendance Sync, Sri Lanka Holiday Calendar, Live Weather & Personal Mailbox Hub.",
     "release_notes": "MEC POS Zenith v3.40.09: Fix HRM Studio attendance log date column, real-time shift sync, and update manifest routing.",
     "mandatory": true
 }
