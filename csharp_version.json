@@ -1,0 +1,19 @@
+{
+    "version": "3.40.36",
+    "zip_version": "3.40.36",
+    "zip_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
+    "zip_size": 108387964,
+    "setup_version": "3.40.36",
+    "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.36/MEC_POS_Setup.exe",
+    "setup_size": 131115446,
+    "admin_version": "3.40.09",
+    "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.03/MEC_Super_Admin_Setup.exe",
+    "admin_size": 44940710,
+    "portable_version": "3.40.36",
+    "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.36/MEC_POS_Setup.exe",
+    "portable_size": 131115446,
+    "download_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
+    "releaseNotes": "MEC POS v3.40.36: Universal S/N & Warranty Billing, Administrator Elevation for WhatsApp microservice, and full self-contained .NET Runtime update package.",
+    "release_notes": "MEC POS Zenith v3.40.36: Universal S/N & Warranty Billing, Administrator Elevation for WhatsApp microservice, and full self-contained .NET Runtime update package.",
+    "mandatory": true
+}
