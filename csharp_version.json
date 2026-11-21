@@ -1,8 +1,8 @@
 {
-    "version": "3.40.25",
-    "zip_version": "3.40.25",
+    "version": "3.40.49",
+    "zip_version": "3.40.49",
     "zip_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
-    "zip_size": 4396828,
+    "zip_size": 108672431,
     "setup_version": "3.40.09",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "setup_size": 122703872,
@@ -13,7 +13,7 @@
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.04/MEC_POS_Setup.exe",
     "portable_size": 122703872,
     "download_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
-    "releaseNotes": "MEC POS v3.40.25: Aesthetic White Theme Dashboard, Mobile Attendance Sync, Sri Lanka Holiday Calendar, Live Weather & Personal Mailbox Hub.",
-    "release_notes": "MEC POS Zenith v3.40.25: Universal ERP Department Sidebar, Clean Silent Navigation, EMP-001 Identity Integration.",
+    "releaseNotes": "MEC POS v3.40.49: Excluded Other service from popularity ranking, Cloud Distributed Lock for morning CEO SMS (single SMS per branch per day), and WhatsApp offline warning with direct wa.me fallback.",
+    "release_notes": "MEC POS Zenith v3.40.49: Excluded Other service from popularity ranking, Cloud Distributed Lock for morning CEO SMS (single SMS per branch per day), and WhatsApp offline warning with direct wa.me fallback.",
     "mandatory": true
 }
