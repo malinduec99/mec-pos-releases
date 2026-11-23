@@ -1,0 +1,37 @@
+{
+    "name": "mecbookshop",
+    "private": true,
+    "version": "3.40.59",
+    "description": "Premium Universal Point of Sale and Inventory Management System",
+    "author": "MEC Global Solutions",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "guard": "node scripts/guard_hosting_assets.cjs",
+        "build": "node scripts/guard_hosting_assets.cjs && vite build && copy platform.html dist\\platform.html && node sync_helper.cjs --copy-ui && node build_zip.cjs && node scripts/guard_hosting_assets.cjs",
+        "release:publish": "node scripts/publish_universal_release.cjs",
+        "release:universal": "node scripts/publish_universal_release.cjs",
+        "preview": "vite preview",
+        "test": "vitest run",
+        "lint": "eslint src"
+    },
+    "devDependencies": {
+        "@vitest/browser": "^4.1.2",
+        "@vitest/coverage-v8": "^4.1.2",
+        "@vitest/ui": "^4.1.2",
+        "archiver": "^8.0.0",
+        "eslint": "^9.39.4",
+        "eslint-plugin-import": "^2.32.0",
+        "jsdom": "^29.0.1",
+        "unzipper": "^0.12.5",
+        "vite": "^6.0.0",
+        "vitest": "^4.1.2"
+    },
+    "dependencies": {
+        "@google/genai": "^1.43.0",
+        "@google/generative-ai": "^0.24.1",
+        "firebase": "^12.18.0",
+        "puppeteer": "^25.9.0",
+        "xlsx": "^0.18.5"
+    }
+}
