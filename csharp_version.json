@@ -1,11 +1,11 @@
 {
-    "version": "3.40.60",
-    "zip_version": "3.40.60",
+    "version": "3.40.61",
+    "zip_version": "3.40.61",
     "zip_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
-    "zip_size": 108669723,
+    "zip_size": 108673787,
     "setup_version": "3.40.60",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Setup.exe",
-    "setup_size": 131334297,
+    "setup_size": 131344343,
     "admin_version": "3.40.60",
     "admin_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_Super_Admin_Setup.exe",
     "admin_size": 0,
@@ -13,6 +13,6 @@
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Portable.exe",
     "portable_size": 154904725,
     "download_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
-    "releaseNotes": "MEC POS v3.40.60: Vehicle Handover distribution fix (shows all active undelivered vehicle orders regardless of booking date), and normalized ON VAN status matching.",
-    "release_notes": "MEC POS Zenith v3.40.60: Vehicle Handover distribution fix (shows all active undelivered vehicle orders regardless of booking date), and normalized ON VAN status matching."
+    "releaseNotes": "MEC POS v3.40.61: POS fast billing split payment confirmation guard (default NO focus), and automated daily backup restricted to Admin/CEO terminal with 30-day retention.",
+    "release_notes": "MEC POS v3.40.61: POS fast billing split payment confirmation guard (default NO focus), and automated daily backup restricted to Admin/CEO terminal with 30-day retention."
 }
