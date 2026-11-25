@@ -1,16 +1,17 @@
 {
-    "version": "1.0.28",
-    "version_name": "1.0.28",
-    "versionCode": 5026,
-    "version_code": 5026,
+    "version": "1.0.27",
+    "versionCode": 5025,
+    "version_name": "1.0.27",
+    "version_code": 5025,
     "downloadUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/mec-book-shop.apk",
     "apkUrl": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/mec-book-shop.apk",
     "apk_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/mec-book-shop.apk",
     "apk_size_mb": "32.0 MB",
-    "apk_size": 33513233,
-    "releaseNotes": "v1.0.28: Cloud storage integration for deposit slips (preventing 1MB limit crash), multi-format phone order tracking, and zero analyzer warnings.",
-    "release_notes": "v1.0.28: Cloud storage integration for deposit slips (preventing 1MB limit crash), multi-format phone order tracking, and zero analyzer warnings.",
+    "apk_size": 33456117,
+    "releaseNotes": "MEC Book Shop v1.0.27: Stability improvements and fast sync.",
+    "release_notes": "MEC Book Shop v1.0.27: Stability improvements and fast sync.",
     "is_critical": false,
+    "forceUpdate": false,
     "min_supported_version_code": 5000,
-    "updated_at": "2026-11-23T10:25:50.847Z"
+    "updated_at": "2026-11-25T15:30:00.000Z"
 }
