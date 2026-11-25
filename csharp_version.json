@@ -1,8 +1,8 @@
 {
-    "version": "3.40.66",
-    "zip_version": "3.40.66",
+    "version": "3.40.67",
+    "zip_version": "3.40.67",
     "zip_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
-    "zip_size": 108681821,
+    "zip_size": 108682351,
     "setup_version": "3.40.60",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Setup.exe",
     "setup_size": 131344343,
