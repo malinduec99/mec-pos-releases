@@ -1,8 +1,8 @@
 {
     "version": "3.40.60",
     "zip_version": "3.40.60",
-    "zip_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Update.zip",
-    "zip_size": 108669293,
+    "zip_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
+    "zip_size": 108669265,
     "setup_version": "3.40.60",
     "setup_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Setup.exe",
     "setup_size": 131334297,
@@ -12,7 +12,7 @@
     "portable_version": "3.40.60",
     "portable_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Portable.exe",
     "portable_size": 154904725,
-    "download_url": "https://github.com/malinduec99/mec-pos-releases/releases/download/v3.40.60/MEC_POS_Setup.exe",
-    "releaseNotes": "MEC POS v3.40.60: Universal multi-tab cart preservation, instant empty-cart tab creation, and 24/7 AI Business Copilot & WhatsApp Automation Service.",
-    "release_notes": "MEC POS Zenith v3.40.60: Universal multi-tab cart preservation, instant empty-cart tab creation, and 24/7 AI Business Copilot & WhatsApp Automation Service."
+    "download_url": "https://mec-book-shop.web.app/MEC_POS_Update.zip",
+    "releaseNotes": "MEC POS v3.40.60: Vehicle Handover distribution fix (shows all active undelivered vehicle orders regardless of booking date), and normalized ON VAN status matching.",
+    "release_notes": "MEC POS Zenith v3.40.60: Vehicle Handover distribution fix (shows all active undelivered vehicle orders regardless of booking date), and normalized ON VAN status matching."
 }

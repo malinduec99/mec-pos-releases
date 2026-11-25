@@ -197,6 +197,36 @@ async function runNightlyReport() {
             continue;
         }
 
+        // Strictly check if an SMS brief was ALREADY dispatched today for this branch/store
+        let alreadySentSMSToday = false;
+        try {
+            const taskDoc = await getDoc(doc(db, 'stores', storeId, 'system_tasks', `nightly_brief_${todayStr}`));
+            if (taskDoc.exists() && taskDoc.data().status === 'SENT') {
+                alreadySentSMSToday = true;
+            }
+        } catch (_) {}
+
+        if (!alreadySentSMSToday) {
+            try {
+                const logsSnap = await getDocs(query(
+                    collection(db, "ai_copilot_logs"),
+                    where("storeId", "==", storeId),
+                    limit(10)
+                ));
+                alreadySentSMSToday = logsSnap.docs.some(d => {
+                    const l = d.data();
+                    if (l.type !== 'SMS_CEO_MORNING' && l.type !== 'SMS_CEO_CLOUD') return false;
+                    const ts = l.timestamp?.seconds ? new Date(l.timestamp.seconds * 1000 + (5.5 * 60 * 60 * 1000)).toISOString().split('T')[0] : '';
+                    return ts === todayStr;
+                });
+            } catch (_) {}
+        }
+
+        if (alreadySentSMSToday) {
+            console.log(`🛡️ SMS brief was ALREADY dispatched today for ${storeName} (${storeId}). Skipping duplicate to protect merchant balance.`);
+            continue;
+        }
+
         const smsBrief = 
 `[${storeName.toUpperCase()} DAILY BRIEF - ${todayStr}]
 Gross Sales: LKR ${todayGrossRevenue.toLocaleString(undefined, {minimumFractionDigits: 2})}
@@ -217,6 +247,14 @@ MEC POS Virtual CFO`;
             const smsRes = await fetch(smsUrl.toString());
             const smsData = await smsRes.text();
             console.log(`📨 Gateway Response for ${storeName}:`, smsData);
+
+            await setDoc(doc(db, 'stores', storeId, 'system_tasks', `nightly_brief_${todayStr}`), {
+                status: 'SENT',
+                storeId,
+                date: todayStr,
+                channel: 'SMS',
+                timestamp: serverTimestamp()
+            }, { merge: true }).catch(() => {});
 
             await addDoc(collection(db, "ai_copilot_logs"), {
                 type: 'SMS_CEO_CLOUD',
